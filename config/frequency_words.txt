@@ -20,6 +20,9 @@ ai
 
 C++
 C
+C/C++
+!COS
+!cos
 Rust
 3DGS
 
